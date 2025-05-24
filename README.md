@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vanvani41
-- 👀 I’m interested in how to map with noddle extensions, mapping extensions and chroma.
+- 👀 I’m interested in how to map modcharts.
 - 🌱 I’m currently learning Hslider, Alertify
 - 💞️ I’m looking to collaborate on Beat Saber
 - 📫 How to reach me: https://discord.gg/m7kjyhhCHV
