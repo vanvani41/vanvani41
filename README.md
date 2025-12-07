@@ -1,7 +1,1 @@
-- 👋 Hi, I’m vanvani41
-- 👀 I’m interested in how to map modcharts.
-- 🌱 I’m currently learning Hslider, Alertify
-- 💞️ I’m looking to collaborate on Beat Saber
-- 📫 How to reach me: https://discord.gg/m7kjyhhCHV
-- 😄 Pronouns: he\it's\him
-- ⚡ Fun fact: I from Ukraine
+- hi
