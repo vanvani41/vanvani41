@@ -1,5 +1,3 @@
-# Hello! 👋
-### **I am vanvani41 (Ivan) and i am 12 yo**
-### **Already know some of ** `HTML, CSS, C#, node.js, JS, Java, paper the minecraft plugin loader, Python, Unity (and Unity/Engine lib in C#)`. **Maybe that's all, and SERIOUSLY some of things in these langs, NOT ENTIRE LANG.**
-### **Gorilla Tag content creator (tiktok in profile)**
-### Don't know what to say.... 
+# hi
+### **my name is ivan and im 12.6 yo**
+### gorilla tag ukrainian cc, beat saber pro (search for vanvani41 on beatleader or twitch.tv/vanvani41 on scoresaber) and cool programmer
